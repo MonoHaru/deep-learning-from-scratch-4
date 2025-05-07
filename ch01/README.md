@@ -1,7 +1,7 @@
 # Chapter 1 - 밴디트 문제
 
 ## 1.1 머신러닝 분류와 강화 학습
-[나의 Notion 페이지 바로가기](https://www.notion.so/Chapter-1-1ec08f682c5a80f68354fa103ea33a7c?pvs=4)
+[나의 Notion 페이지 바로가기](https://honorable-noodle-1d0.notion.site/Chapter-1-1ec08f682c5a80f68354fa103ea33a7c?pvs=4)
 ### 1.1.1 지도 학습
 a
 ### 1.1.2 비지도 학습
