@@ -4,5 +4,5 @@
 
 # Summary
 | 장 | Notion |
+|----|--------|
 | 1장 밴디트 문제 | [![Notion](https://img.shields.io/badge/Open%20in-Notion-black?logo=notion)](https://honorable-noodle-1d0.notion.site/Chapter-1-1ec08f682c5a80f68354fa103ea33a7c?pvs=4)
-| 프로젝트 소개 | 주요 기능 및 목적 설명 | [Notion 페이지](https://notion.so/...) |
