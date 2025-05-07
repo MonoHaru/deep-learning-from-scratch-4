@@ -5,4 +5,4 @@
 # Summary
 | 장 | Notion | Python |
 |----|--------|--------|
-| 1장 밴디트 문제 | [![Open In Notion](https://img.shields.io/badge/Open%20in-Notion-blue?logo=notion)](https://honorable-noodle-1d0.notion.site/Chapter-1-1ec08f682c5a80f68354fa103ea33a7c?pvs=4) | [![Python](https://img.shields.io/badge/Open%20in-Python-3776AB?&logo=python&logoColor=ffdd54)](https://honorable-noodle-1d0.notion.site/Chapter-1-1ec08f682c5a80f68354fa103ea33a7c?pvs=4)
+| 1장 밴디트 문제 | [![Open In Notion](https://img.shields.io/badge/Open%20in-Notion-000000?logo=notion)](https://honorable-noodle-1d0.notion.site/Chapter-1-1ec08f682c5a80f68354fa103ea33a7c?pvs=4) | [![Python](https://img.shields.io/badge/Open%20in-Python-3776AB?&logo=python&logoColor=ffdd54)](https://honorable-noodle-1d0.notion.site/Chapter-1-1ec08f682c5a80f68354fa103ea33a7c?pvs=4)
