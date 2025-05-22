@@ -7,6 +7,8 @@
 | Chapter | Notion | Python |
 |---------|--------|--------|
 | 1장 밴디트 문제 | [![Open In Notion](https://img.shields.io/badge/Open%20in-Notion-000000?logo=notion)](https://honorable-noodle-1d0.notion.site/Chapter-1-1ec08f682c5a80f68354fa103ea33a7c?pvs=4) | [![Python](https://img.shields.io/badge/Open%20in-Python-3776AB?&logo=python&logoColor=ffdd54)](https://github.com/MonoHaru/deep-learning-from-scratch-4/tree/main/ch01)
+| 4장 동적 프로그래밍 | [![Open In Notion](https://img.shields.io/badge/Open%20in-Notion-000000?logo=notion)](https://honorable-noodle-1d0.notion.site/Chapter-1-1ec08f682c5a80f68354fa103ea33a7c?pvs=4) | [![Python](https://img.shields.io/badge/Open%20in-Python-3776AB?&logo=python&logoColor=ffdd54)](https://github.com/MonoHaru/deep-learning-from-scratch-4/tree/main/ch04)
+| 5장 몬테카를로법 | [![Open In Notion](https://img.shields.io/badge/Open%20in-Notion-000000?logo=notion)](https://honorable-noodle-1d0.notion.site/Chapter-1-1ec08f682c5a80f68354fa103ea33a7c?pvs=4) | [![Python](https://img.shields.io/badge/Open%20in-Python-3776AB?&logo=python&logoColor=ffdd54)](https://github.com/MonoHaru/deep-learning-from-scratch-4/tree/main/ch05)
 
-
-FGHDF
+[4장] -> 아직 노션 수정 안 됌
+[5장] -> 아직 노션 수정 안 됌됌
